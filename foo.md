@@ -6,7 +6,15 @@ bottom: false
 toc: false
 ---
 
-# Foo, so much better tna Bar
+# Test Space
+
+::MyButton[]{type="info"}
+Push the button
+::
+
+::alert{type="warning"}
+The **alert** component.
+::
 
 ---
 
