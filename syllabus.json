@@ -1,0 +1,96 @@
+{
+  title: "Sample Lesson 1",
+  description: "This is a sample lesson used to demonstrate the lesson format.",  
+  level: "beginner|intermediate|advanced",
+  duration: 30, // in minutes
+
+  rewards: [
+    {
+      name: "vADA",
+      type: "token",
+      policyID: "???????",
+      quantity: 100,
+      image: "https://raw.githubusercontent.com/adafruit/Adafruit_Learning_System_Guides/master/assets/adafruit-logo.png"
+    },
+    {
+      name: "gHACk",  // governance token for the DAO?
+      type: "token",
+      policyID: "???????",
+      quantity: 1000,
+      image: "https://raw.githubusercontent.com/adafruit/Adafruit_Learning_System_Guides/master/assets/adafruit-logo.png"
+    },
+    {
+      // NOTE: Would love to have this take an existing badge and upgrade it to a new one if possible
+      name: "Hacker Badge", 
+      type: "NFT",
+      policyID: "???????",
+      quantity: 1,
+      image: "https://raw.githubusercontent.com/adafruit/Adafruit_Learning_System_Guides/master/assets/adafruit-logo.png"
+    },
+    {
+      // NOTE: Would love to have this take an existing badge and upgrade it to a new one if possible
+      name: "Experience Points", 
+      type: "XP",
+      quantity: 100,
+      image: "https://raw.githubusercontent.com/adafruit/Adafruit_Learning_System_Guides/master/assets/adafruit-logo.png"
+    }
+  ],
+
+  // NOTE: This is a list of all the steps in the lesson
+  steps: [
+    {
+      title: "Step 1",
+      description: "This is the first step in the lesson.",
+      markdown: "https://raw.githubusercontent.com/adafruit/Adafruit_Learning_System_Guides/master/assets/adafruit-logo.png",
+    },
+    {
+      title: "Step 2",
+      description: "This is the second step in the lesson.",
+      markdown: "https://raw.githubusercontent.com/adafruit/Adafruit_Learning_System_Guides/master/assets/adafruit-logo.png",
+    },
+    {
+      title: "Step 3",
+      description: "This is the third step in the lesson.",
+      markdown: "https://raw.githubusercontent.com/adafruit/Adafruit_Learning_System_Guides/master/assets/adafruit-logo.png",
+    },
+    {
+      title: "Step 4",
+      description: "This is the fourth step in the lesson.",
+      markdown: "https://raw.githubusercontent.com/adafruit/Adafruit_Learning_System_Guides/master/assets/adafruit-logo.png",
+    },
+    {
+      title: "Step 5",
+      description: "This is the fifth step in the lesson.",
+      markdown: "https://raw.githubusercontent.com/adafruit/Adafruit_Learning_System_Guides/master/assets/adafruit-logo.png",
+    },
+    {
+      title: "Step 6",
+      description: "This is the sixth step in the lesson.",
+      markdown: "https://raw.githubusercontent.com/adafruit/Adafruit_Learning_System_Guides/master/assets/adafruit-logo.png",
+    },
+    {
+      title: "Step 7",
+      description: "This is the seventh step in the lesson.",
+      markdown: "https://raw.githubusercontent.com/adafruit/Adafruit_Learning_System_Guides/master/assets/adafruit-logo.png",
+    },
+    {
+      title: "Step 8",
+      description: "This is the eighth step in the lesson.",
+      markdown: "https://raw.githubusercontent.com/adafruit/Adafruit_Learning_System_Guides/master/assets/adafruit-logo.png",
+    },
+    {
+      title: "Step 9",
+      description: "This is the ninth step in the lesson.",
+      markdown: "https://raw.githubusercontent.com/adafruit/Adafruit_Learning_System_Guides/master/assets/adafruit-logo.png",
+    },
+    {
+      title: "Step 10",
+      description: "This is the tenth step in the lesson.",
+      markdown: "https://raw.githubusercontent.com/adafruit/Adafruit_Learning_System_Guides/master/assets/adafruit-logo.png",
+    },
+  ],
+
+  proofs: [
+    // Not sure how to handle this yet, want to provide a "proof" for each step and completion of lesson for rewards
+  ]
+}
