@@ -19,8 +19,8 @@
       "en": {
         "title": "Getting Started",
         "steps": [
-          "/lessons/Solana_NFTs/en/Section_0/Lesson_1_Lets_Ship_Some_NFTs.md",
-          "/lessons/Solana_NFTs/en/Section_0/Lesson_2_Whats_Different_About_Solana_NFTs.md"
+          "Section_0/Lesson_1_Lets_Ship_Some_NFTs.md",
+          "Section_0/Lesson_2_Whats_Different_About_Solana_NFTs.md"
         ]
       }
     },
@@ -28,8 +28,8 @@
       "en": {
         "title": "Connect Web App to Solana",
         "steps": [
-          "/lessons/Solana_NFTs/en/Section_1/Lesson_1_Hook_Up_Phantom_Wallet.md",
-          "/lessons/Solana_NFTs/en/Section_1/Lesson_2_Build_Connect_Wallet_Button.md"
+          "Section_1/Lesson_1_Hook_Up_Phantom_Wallet.md",
+          "Section_1/Lesson_2_Build_Connect_Wallet_Button.md"
         ]
       }
     },
@@ -37,9 +37,9 @@
       "en": {
         "title": "Deploy NFT Candy Machine",
         "steps": [
-          "/lessons/Solana_NFTs/en/Section_2/Lesson_1_Get_Solana_Running.md",
-          "/lessons/Solana_NFTs/en/Section_2/Lesson_2_Setup_NFT_Assets.md",
-          "/lessons/Solana_NFTs/en/Section_2/Lesson_3_Depoy_NFTs_To_Devnet.md"
+          "Section_2/Lesson_1_Get_Solana_Running.md",
+          "Section_2/Lesson_2_Setup_NFT_Assets.md",
+          "Section_2/Lesson_3_Depoy_NFTs_To_Devnet.md"
         ]
       }
     },
@@ -47,8 +47,8 @@
       "en": {
         "title": "Create NFT Minting",
         "steps": [
-          "/lessons/Solana_NFTs/en/Section_3/Lesson_1_Call_Candy_Machine_From_App.md",
-          "/lessons/Solana_NFTs/en/Section_3/Lesson_2_Create_Mint_NFT_Button.md"
+          "Section_3/Lesson_1_Call_Candy_Machine_From_App.md",
+          "Section_3/Lesson_2_Create_Mint_NFT_Button.md"
         ]
       }
     },
@@ -56,8 +56,8 @@
       "en": {
         "title": "Finishing Touches",
         "steps": [
-          "/lessons/Solana_NFTs/en/Section_4/Lesson_1_Drop_Timer_And_Sold_Out_State.md",
-          "/lessons/Solana_NFTs/en/Section_4/Lesson_2_Finalize_And_Celebrate.md"
+          "Section_4/Lesson_1_Drop_Timer_And_Sold_Out_State.md",
+          "Section_4/Lesson_2_Finalize_And_Celebrate.md"
         ]
       }
     }
