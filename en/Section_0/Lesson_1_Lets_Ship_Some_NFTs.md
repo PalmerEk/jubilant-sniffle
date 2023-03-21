@@ -30,7 +30,7 @@ When you reach the end of this project, you'll be able to mint an NFT.
 
 Here's what it looks like:
 
-<img src="/assets/intro to solana.png" />
+<img src="https://github.com/PalmerEk/jubilant-sniffle/blob/main/assets/intro%20to%20solana.png" />
 
 **Note: Please reach out to Alec(alec#8853), CodePerfect(CodePerfect#6638) or Raza(TooManyBugs#3359) if you encounter any issues with claiming your NFTs**
 
