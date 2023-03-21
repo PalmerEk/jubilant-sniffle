@@ -1,5 +1,5 @@
 ---
-title: This is the lesson title
+title: This is the lesson ENGLISH title
 image: "https://buildspace.so/_next/image?url=https%3A%2F%2Fcdn.buildspace.so%2Fcourses%2Fsolana-nft%2Fcover-og.png&w=1200&q=75"
 level: 1
 categories:
