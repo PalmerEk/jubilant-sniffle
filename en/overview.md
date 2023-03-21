@@ -11,7 +11,13 @@ tracks:
 duration: 45
 ---
 
-I think this would qualify as an excerpt. It contains some plain text data before a heading?
+I think this would qualify as an excerpt. _It contains some plain text data before a heading?_
+
+```js
+const foo = "bar";
+```
+
+### Some more info
 
 <!--more-->
 
