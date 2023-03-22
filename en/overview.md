@@ -1,23 +1,17 @@
 ---
-title: This is the lesson ENGLISH title
-image: "https://buildspace.so/_next/image?url=https%3A%2F%2Fcdn.buildspace.so%2Fcourses%2Fsolana-nft%2Fcover-og.png&w=1200&q=75"
+title: Create an ADAHackerSpace Lesson
+image: "https://github.com/PalmerEk/jubilant-sniffle/blob/main/assets/Workshop_cog.png"
 level: 1
 categories:
-    - NFTs
-    - Solana
-    - Beginner
+    - Education
 tracks:
-    - dApp Developer
+    - Cardano Contributor
 duration: 45
 ---
 
-I think this would qualify as an excerpt. _It contains some plain text data before a heading?_
+Did you love the movie Inception? This lesson will teach you how to make your own lessons to help other people learn about Cardano. You will learn the cool thing you know.
 
-```js
-const foo = "bar";
-```
-
-### Some more info
+You learn. You help others learn. Everybody wins!
 
 <!--more-->
 
