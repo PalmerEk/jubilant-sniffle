@@ -1,6 +1,6 @@
 ---
 title: Create an ADAHackerSpace Lesson
-image: "https://github.com/PalmerEk/jubilant-sniffle/blob/main/assets/Workshop_cog.png"
+image: "https://github.com/PalmerEk/jubilant-sniffle/raw/main/assets/Workshop_cog.png"
 level: 1
 categories:
     - Education
