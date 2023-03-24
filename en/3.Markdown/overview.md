@@ -8,6 +8,6 @@ Markdown is a lightweight markup language with plain text formatting syntax. Mar
 
 ## Standard Markdown
 
-## Fontmatter Headers
+## Front Matter Headers
 
 ## ADAHackerSpace Extensions
